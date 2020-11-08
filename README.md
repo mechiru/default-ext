@@ -1,6 +1,9 @@
 # default-ext
 
 [![ci](https://github.com/mechiru/default-ext/workflows/ci/badge.svg)](https://github.com/mechiru/default-ext/actions?query=workflow:ci)
+[![Rust Documentation](https://docs.rs/default-ext/badge.svg)](https://docs.rs/default-ext)
+[![Latest Version](https://img.shields.io/crates/v/default-ext.svg)](https://crates.io/crates/default-ext)
+
 This library provides extension methods for the `Default` trait.
 
 ## Example
