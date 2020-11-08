@@ -1,5 +1,6 @@
 # default-ext
 
+[![ci](https://github.com/mechiru/default-ext/workflows/ci/badge.svg)](https://github.com/mechiru/default-ext/actions?query=workflow:ci)
 This library provides extension methods for the `Default` trait.
 
 ## Example
